@@ -1,0 +1,37 @@
+
+
+
+/*adjacent Selector*/
+div + p{
+    color:brown
+}
+
+/*General Siblinga selector*/
+
+div ~ p {
+   color:aqua;
+}
+.Possition {
+    color: blue;
+}
+.box {
+    color: aqua;
+}
+.fixed {
+    color: brown;
+}
+.know {
+    color: blue;
+}
+.Go {
+    color: chartreuse;
+}
+body{
+    background-image: url(C:\Users\Netzwerk\Downloads\WhatsApp.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*css   `
